@@ -1,0 +1,83 @@
+/* assets/custom.css */
+
+/* Main container */
+.main {
+    padding: 2rem;
+}
+
+/* Sidebar */
+.css-1d391kg, .css-12oz5g7 {
+    background-color: #f8f9fa;
+}
+
+/* Cards */
+.stButton > button {
+    width: 100%;
+    border-radius: 5px;
+    height: 3em;
+    font-weight: bold;
+}
+
+/* Dataframe styling */
+.dataframe {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Plot containers */
+.plotly-graph-div {
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #1f77b4;
+}
+
+/* Success messages */
+.stAlert {
+    border-radius: 10px;
+}
+
+/* Metric cards */
+.css-1xarl3l {
+    background-color: #f0f2f6;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 50px;
+    white-space: pre-wrap;
+    border-radius: 4px 4px 0px 0px;
+    gap: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Download buttons */
+.download-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+.download-btn:hover {
+    background-color: #45a049;
+}

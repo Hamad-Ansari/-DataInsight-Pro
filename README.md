@@ -1,1 +1,1 @@
-# -DataInsight-Pro
+# DataInsight-Pro
